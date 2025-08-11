@@ -7,6 +7,11 @@
 
 import UIKit
 
+/**
+ 기록 화면 ViewController
+ - Author: Jumyeong
+ - Since: 2025.08.11
+*/
 class RecordViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
