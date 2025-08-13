@@ -1,8 +1,6 @@
 //
-//  RecordViewController.swift
-//  Record Workout
-//
 //  Created by jumyeong on 8/11/25.
+//  © 2025 jumyeong. All rights reserved.
 //
 
 import UIKit
