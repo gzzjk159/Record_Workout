@@ -17,7 +17,7 @@ class MainViewController: UITabBarController {
     
     /**
      Test
-     - Author: Jumyeong
+     - Author: jumyeong
      - Since: 2025.08.11
      */
     private func setupMain() {
@@ -25,7 +25,7 @@ class MainViewController: UITabBarController {
     
     /**
      화면 이동 설정
-     - Author: Jumyeong
+     - Author: jumyeong
      - Since: 2025.08.11
      */
     private func setupTabBar() {

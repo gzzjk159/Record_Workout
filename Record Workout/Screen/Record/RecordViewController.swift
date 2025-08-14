@@ -7,7 +7,7 @@ import UIKit
 
 /**
  기록 화면 ViewController
- - Author: Jumyeong
+ - Author: jumyeong
  - Since: 2025.08.11
 */
 class RecordViewController: UIViewController {
