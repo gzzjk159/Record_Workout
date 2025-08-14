@@ -29,9 +29,9 @@ class MainViewController: UITabBarController {
      - Since: 2025.08.11
      */
     private func setupTabBar() {
-        let workoutVC = WorkoutViewController()
-        let recordVC = RecordViewController()
-        let settingVC = SettingViewController()
+        let workoutVC = UINavigationController(rootViewController: WorkoutViewController()) 
+        let recordVC = UINavigationController(rootViewController: RecordViewController())
+        let settingVC = UINavigationController(rootViewController: SettingViewController())
         
         workoutVC.tabBarItem = UITabBarItem(title: "운동",
                                             image: UIImage(systemName: "figure.run"),
